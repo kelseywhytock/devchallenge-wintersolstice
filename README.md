@@ -6,7 +6,7 @@
 
 <h2>Glam Up My Markup: Winter Solstice</h2>
 
-Use CSS and JavaScript to make the below starter HTML markup beautiful, interactive, and useful. December is when the Northern Hemisphere observes and experiences the Winter Solstice (June in the Southern Hemisphere) — We have provided a starter template of a site that dives into the science and culture surrounding the winter solstice around the world.
+Use CSS and JavaScript [ONLY] to make the below starter HTML markup beautiful, interactive, and useful. December is when the Northern Hemisphere observes and experiences the Winter Solstice (June in the Southern Hemisphere) — We have provided a starter template of a site that dives into the science and culture surrounding the winter solstice around the world.
 
 
 <div style="background:#f1f1f1; display: block; padding: 1em 2em; margin: 2em 0;">
